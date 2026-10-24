@@ -1,5 +1,5 @@
 ---
 layout: projects
-icon: fas fa-projects
+icon: fas fa-tags
 order: 2
 ---
