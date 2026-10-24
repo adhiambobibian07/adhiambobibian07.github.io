@@ -35,14 +35,14 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Bibian Adhiambo
   email: adhiambobibian07@gmail.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  fediverse_handle: @adhiambobibian07@domain.com # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-     https://twitter.com/adhiambobibian07 # change to your Twitter homepage
-     https://github.com/adhiambobibian07 # change to your GitHub homepage
+    - https://twitter.com/adhiambobibian07 # change to your Twitter homepage
+    - https://github.com/adhiambobibian07 # change to your GitHub homepage
     # Uncomment below to add more social links
     #  https://www.facebook.com/username
-     https://www.linkedin.com/in/bibian-adhiambo
+    - https://www.linkedin.com/in/bibian-adhiambo
 
 # Site Verification Settings
 webmaster_verifications:
