@@ -1,6 +1,6 @@
 ---
 title: Resume
-icon: fas fa-file-alt
+icon: fas fa-stream
 order: 1
 ---
 
